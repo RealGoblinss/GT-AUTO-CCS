@@ -10,9 +10,9 @@ VT link: https://www.virustotal.com/gui/file/592bb967d78f66bd3842aee95ffe9cfc9ba
 enjoy!
 
 # Contact:
-Discord: Cicity#4073
+Discord: RealGoblins#6183
 Join my discord server:
-(community and support) https://discord.gg/SeBtTYxANg
+(community and support) https://discord.gg/SeBtTYxANi
 
  
 ## Full list of features:
